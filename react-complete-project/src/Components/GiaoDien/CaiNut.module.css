@@ -1,0 +1,18 @@
+.cainut {
+    font: inherit;
+    border: 1px solid #4f005f;
+    background: #4f005f;
+    color: white;
+    padding: 0.25rem 1rem;
+    cursor: pointer;
+  }
+  
+  .cainut:hover,
+  .cainut:active {
+    background: #741188;
+    border-color: #741188;
+  }
+  
+  .cainut:focus {
+    outline: none;
+  }
